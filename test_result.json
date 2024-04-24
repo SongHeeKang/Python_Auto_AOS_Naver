@@ -1,0 +1,18 @@
+[
+    {
+        "name": "네이버 앱 튜토리얼 진행하기",
+        "status": "passed"
+    },
+    {
+        "name": "네이버 검색 필드에 네이버 항공권 입력하기",
+        "status": "passed"
+    },
+    {
+        "name": "네이버 항공권 페이지로 이동하기",
+        "status": "passed"
+    },
+    {
+        "name": "왕복 티켓 조회하기",
+        "status": "passed"
+    }
+]

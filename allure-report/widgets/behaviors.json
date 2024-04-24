@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"f3ace2d2ea5f93a93a35ef6ed458645a","name":"네이버 메인 페이지","statistic":{"failed":0,"broken":0,"skipped":0,"passed":3,"unknown":0,"total":3}},{"uid":"d62ad88f432d24321e05f49f9842a6ff","name":"네이버 항공권 페이지","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}

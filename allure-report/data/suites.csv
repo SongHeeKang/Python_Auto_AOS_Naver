@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Apr 24 15:08:02 KST 2024","Wed Apr 24 15:08:05 KST 2024","3628","","","","","","네이버 항공권 페이지로 이동하기",""
+"passed","Wed Apr 24 15:07:55 KST 2024","Wed Apr 24 15:08:02 KST 2024","6990","","","","","","네이버 검색 필드에 네이버 항공권 입력하기",""
+"passed","Wed Apr 24 15:07:44 KST 2024","Wed Apr 24 15:07:55 KST 2024","10410","","","","","","네이버 앱 튜토리얼 진행하기",""
+"passed","Wed Apr 24 15:08:05 KST 2024","Wed Apr 24 15:08:16 KST 2024","10932","","","","","","왕복 티켓 조회하기",""
