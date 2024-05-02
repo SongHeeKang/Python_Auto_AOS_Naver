@@ -36,6 +36,7 @@ sh view-allure-report.sh
 ```
 
 # 파일구조
+```
 ├── apps : apk,ipa 파일위치
 ├── base : appium Element 관련 파일들
 │   └── BasePage.py
@@ -60,3 +61,4 @@ sh view-allure-report.sh
 ├── run-appium.sh : appium 실행 파일
 ├── run-behave.sh : behave 실행 파일
 ├── run-allure.sh : allure 생성 파일
+```
